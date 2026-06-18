@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "gke": {
+      "command": "gke-mcp",
+      "args": [],
+      "transportType": "stdio"
+    }
+  }
+}
